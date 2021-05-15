@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\API\\NASA-api"
+		},
+		{
+			"path": "..\\..\\static layout"
+		}
+	],
+	"settings": {}
+}
